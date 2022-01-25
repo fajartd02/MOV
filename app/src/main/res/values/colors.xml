@@ -12,4 +12,5 @@
     <color name="colorPink">#FF2667</color>
     <color name="colorBlueGray">#292A50</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteGrey">#F7F7F7</color>
 </resources>
