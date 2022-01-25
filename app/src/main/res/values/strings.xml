@@ -11,4 +11,11 @@
     <string name="sign_in">Sign In</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email Address</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="selamat_datang">Selamat Datang,\nFajar M. Hamka</string>
+    <string name="simpan_dan_lanjutkan">Simpan dan Lanjutkan</string>
 </resources>
