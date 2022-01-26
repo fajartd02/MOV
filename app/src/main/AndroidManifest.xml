@@ -25,13 +25,13 @@
             android:name=".onboarding.OnboardingThreeActivity"
             android:exported="true" />
         <activity
-            android:name=".SignInActivity"
+            android:name=".sign.SignInActivity"
             android:exported="true" />
         <activity
-            android:name=".SignUpActivity"
+            android:name=".sign.SignUpActivity"
             android:exported="true" />
         <activity
-            android:name=".SignUpPhotoscreenActivity"
+            android:name=".sign.SignUpPhotoscreenActivity"
             android:exported="true" />
         <activity
             android:name=".SplashScreenActivity"

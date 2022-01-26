@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.382051282051282" />
+        <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/ic_calendar_today.xml" value="0.382051282051282" />
+        <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/ic_local_movies.xml" value="0.382051282051282" />
         <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/ic_rectangle_booked.xml" value="0.382051282051282" />
         <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/ic_rectangle_empty.xml" value="0.382051282051282" />
         <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/ic_rectangle_selected.xml" value="0.382051282051282" />
@@ -11,6 +13,7 @@
         <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/shape_line_blue_grey.xml" value="0.382051282051282" />
         <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/shape_rectangle_blueGray.xml" value="0.382051282051282" />
         <entry key="..\:/5. Project/MOV/app/src/main/res/drawable/shape_rectangle_pink.xml" value="0.382051282051282" />
+        <entry key="..\:/5. Project/MOV/app/src/main/res/layout/activity_checkout.xml" value="0.3229166666666667" />
         <entry key="..\:/5. Project/MOV/app/src/main/res/layout/activity_detail.xml" value="0.36277173913043476" />
         <entry key="..\:/5. Project/MOV/app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="..\:/5. Project/MOV/app/src/main/res/layout/activity_main.xml" value="0.3578125" />

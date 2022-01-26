@@ -21,4 +21,13 @@
     <string name="coming_soon">Coming Soon</string>
     <string name="pilih_bangku">Pilih Bangku</string>
     <string name="beli_tiket">Beli Tiket</string>
+    <string name="checkout">Checkout</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+    <string name="batalkan">Batalkan</string>
+    <string name="when">When</string>
+    <string name="datetime"><![CDATA[Date & Time]]></string>
+    <string name="cinema">Cinema</string>
+    <string name="items">Items</string>
+    <string name="e_wallet">E-Wallet</string>
+    <string name="total_balance">Total Balance</string>
 </resources>
