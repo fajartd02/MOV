@@ -30,4 +30,5 @@
     <string name="items">Items</string>
     <string name="e_wallet">E-Wallet</string>
     <string name="total_balance">Total Balance</string>
+    <string name="saldo_tidak_cukup">Saldo pada e-wallet kamu tidak mencukupi\nuntuk melakukan transaksi</string>
 </resources>
