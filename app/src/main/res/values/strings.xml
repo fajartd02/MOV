@@ -34,4 +34,5 @@
     <string name="simpan_data_baru">Simpan Data Baru</string>
     <string name="edit_profile">Edit Profile</string>
     <string name="my_wallet">My Wallet</string>
+    <string name="my_history">My History</string>
 </resources>
