@@ -33,4 +33,5 @@
     <string name="saldo_tidak_cukup">Saldo pada e-wallet kamu tidak mencukupi\nuntuk melakukan transaksi</string>
     <string name="simpan_data_baru">Simpan Data Baru</string>
     <string name="edit_profile">Edit Profile</string>
+    <string name="my_wallet">My Wallet</string>
 </resources>
