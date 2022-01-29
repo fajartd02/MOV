@@ -98,8 +98,8 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="40"
-        android:layout_height="40"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toStartOf="parent"
