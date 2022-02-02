@@ -1,13 +1,10 @@
 package com.fajar.mov.sign
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import androidx.appcompat.app.AppCompatActivity
 import com.fajar.mov.R
-import com.google.firebase.database.DatabaseReference
-
 import com.google.firebase.database.FirebaseDatabase
-
 
 class SignInActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,7 +15,7 @@ class SignInActivity : AppCompatActivity() {
         button_sign.setOnClickListener {
             // Write a message to the database
             // Write a message to the database
-            val database = FirebaseDatabase.getInstance()
+            val database = FirebaseDatabase.getInstance("https://mov-fajar-default-rtdb.asia-southeast1.firebasedatabase.app/")
             val myRef = database.getReference("message")
 
             myRef.setValue("Hello, World!")
