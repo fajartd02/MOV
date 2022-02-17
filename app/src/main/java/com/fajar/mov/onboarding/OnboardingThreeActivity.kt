@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import com.fajar.mov.R
-import com.fajar.mov.sign.SignInActivity
+import com.fajar.mov.sign.signin.SignInActivity
 
 class OnboardingThreeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

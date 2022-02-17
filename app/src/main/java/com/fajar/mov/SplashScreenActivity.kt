@@ -15,7 +15,7 @@ class SplashScreenActivity : AppCompatActivity() {
         handler.postDelayed({
             var intent = Intent(this@SplashScreenActivity, OnboardingOneActivity::class.java)
             startActivity(intent)
-            finish()
+            finish() // di destroy supaya ga masuk lagi ke splashscreen
         }, 5000)
 
     }
