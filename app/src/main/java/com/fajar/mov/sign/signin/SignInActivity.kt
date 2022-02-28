@@ -1,7 +1,6 @@
 package com.fajar.mov.sign.signin
 
 import android.content.Intent
-import android.content.SharedPreferences
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
@@ -9,7 +8,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.fajar.mov.HomeActivity
 import com.fajar.mov.R
-import com.fajar.mov.sign.SignUpActivity
+import com.fajar.mov.sign.signup.SignUpActivity
 import com.fajar.mov.utils.Preferences
 import com.google.firebase.database.*
 

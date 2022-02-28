@@ -17,6 +17,5 @@ class SplashScreenActivity : AppCompatActivity() {
             startActivity(intent)
             finish() // di destroy supaya ga masuk lagi ke splashscreen
         }, 5000)
-
     }
 }
