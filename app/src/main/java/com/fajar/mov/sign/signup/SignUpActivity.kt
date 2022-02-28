@@ -8,7 +8,6 @@ import android.widget.EditText
 import android.widget.ImageView
 import android.widget.Toast
 import com.fajar.mov.R
-import com.fajar.mov.sign.SignUpPhotoscreenActivity
 import com.fajar.mov.sign.signin.User
 import com.google.firebase.database.*
 

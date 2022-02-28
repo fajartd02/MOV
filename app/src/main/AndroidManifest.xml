@@ -36,7 +36,7 @@
             android:name=".sign.signup.SignUpActivity"
             android:exported="true" />
         <activity
-            android:name=".sign.SignUpPhotoscreenActivity"
+            android:name=".sign.signup.SignUpPhotoscreenActivity"
             android:exported="true" />
         <activity
             android:name=".SplashScreenActivity"
